@@ -1,0 +1,227 @@
+{
+  "users": [
+    {
+      "name": "Sreyahsri",
+      "email": "sreyahsri@gmail.com",
+      "password": "sreya2001",
+      "id": "y_aZPI08agM"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "title": "Shadows of the Neon Grid",
+      "author": "Alex Thorne",
+      "genre": "Sci-Fi",
+      "coverImage": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?q=80&w=600",
+      "synopsis": "In a city run by artificial corporate deities, a rogue terminal engineer discovers a ghost protocol hidden within her own cybernetic memory core.",
+      "rating": 4.9,
+      "reads": 14200,
+      "tags": [
+        "Cyberpunk",
+        "Dystopian",
+        "AI"
+      ],
+      "chapters": [
+        "Chapter 1: The Broken Signal",
+        "Chapter 2: Neon Bleeding",
+        "Chapter 3: Mainframe Paradox"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Chronicles of the Starward Bound",
+      "author": "Marcus Vance",
+      "genre": "Sci-Fi",
+      "coverImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600",
+      "synopsis": "An exploratory deep-space cruiser hits a localized gravity warp, dropping the crew into uncharted space where an ancient alien megastructure awaits.",
+      "rating": 4.7,
+      "reads": 9800,
+      "tags": [
+        "Space Opera",
+        "Aliens",
+        "Exploration"
+      ],
+      "chapters": [
+        "Chapter 1: Event Horizon Shift",
+        "Chapter 2: The Void Engine",
+        "Chapter 3: Artifact One"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "The Last Chronomancer",
+      "author": "Evelyn Sterling",
+      "genre": "Fantasy",
+      "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600",
+      "synopsis": "As time itself begins to fracture across the seven kingdoms, a disgraced royal mage must piece together forbidden temporal spells to save her line.",
+      "rating": 4.8,
+      "reads": 22100,
+      "tags": [
+        "Magic System",
+        "Time Travel",
+        "Kingdoms"
+      ],
+      "chapters": [
+        "Chapter 1: Hourglass Fractures",
+        "Chapter 2: Rewinding the Crown",
+        "Chapter 3: Sands of Temporal Dust"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Whispers of the Iron Citadel",
+      "author": "Rowan Ashwood",
+      "genre": "Fantasy",
+      "coverImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=600",
+      "synopsis": "Deep beneath an impenetrable stone fortress, an orphan script-weaver unlocks an elemental seal that changes the magic ecosystem of the world forever.",
+      "rating": 4.6,
+      "reads": 11500,
+      "tags": [
+        "Dark Fantasy",
+        "Monsters",
+        "Artifacts"
+      ],
+      "chapters": [
+        "Chapter 1: Runes in the Dark",
+        "Chapter 2: The Iron Gate Screams",
+        "Chapter 3: Unbound Torrent"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "The Crimson Alibi",
+      "author": "Julian Cross",
+      "genre": "Mystery",
+      "coverImage": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=600",
+      "synopsis": "A secluded mansion party turns into a dark puzzle room when a tech billionaire is found dead inside a structurally impossible, sealed room.",
+      "rating": 4.9,
+      "reads": 18400,
+      "tags": [
+        "Whodunit",
+        "Locked Room",
+        "Detective"
+      ],
+      "chapters": [
+        "Chapter 1: Midnight Arrivals",
+        "Chapter 2: The Locked Vault Paradox",
+        "Chapter 3: Red herrings"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Echoes on Foggy Mooring",
+      "author": "Clara Davenport",
+      "genre": "Mystery",
+      "coverImage": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?q=80&w=600",
+      "synopsis": "A coastal detective investigating a missing persons cold case discovers a secret society hiding in plain sight behind a sleepy maritime town.",
+      "rating": 4.5,
+      "reads": 7300,
+      "tags": [
+        "Noir",
+        "Coastal Town",
+        "Conspiracy"
+      ],
+      "chapters": [
+        "Chapter 1: The Cold Atlantic Coast",
+        "Footprints in the Shingle",
+        "Beneath the Lighthouse Floor"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Love and Other Gravity Anomalies",
+      "author": "Sienna Brooks",
+      "genre": "Romance",
+      "coverImage": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=600",
+      "synopsis": "Two rival astrobiologists bound together on a claustrophobic orbital station must navigate corporate sabotage and intense gravity anomalies.",
+      "rating": 4.8,
+      "reads": 31000,
+      "tags": [
+        "Enemies to Lovers",
+        "Sci-Fi Romance",
+        "Workplace"
+      ],
+      "chapters": [
+        "Chapter 1: Lab Space Sharing Protocols",
+        "Chapter 2: Zero Gravity Spark",
+        "Chapter 3: Colliding Trajectories"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "A Symphony of Starlight",
+      "author": "Liam Vance",
+      "genre": "Romance",
+      "coverImage": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?q=80&w=600",
+      "synopsis": "A royal classical pianist forced into an arranged corporate marriage unexpectedly falls for the underground street artist painting murals on her estate walls.",
+      "rating": 4.7,
+      "reads": 26500,
+      "tags": [
+        "Arranged Marriage",
+        "Artistic Passion",
+        "Slow Burn"
+      ],
+      "chapters": [
+        "Chapter 1: Keys to an Ivory Cage",
+        "Chapter 2: Charcoal Dust at Midnight",
+        "Chapter 3: Rebellious Harmonies"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "The Quantum Heartbreak",
+      "author": "Tessa Moore",
+      "genre": "Romance",
+      "coverImage": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?q=80&w=600",
+      "synopsis": "When an experimental physics engine begins showing alternative realities, two timelines twist, forcing a split couple to fall in love across dimensions.",
+      "rating": 4.6,
+      "reads": 19200,
+      "tags": [
+        "Parallel Dimensions",
+        "Soulmates",
+        "Angst"
+      ],
+      "chapters": [
+        "Chapter 1: Split Dynamic Threads",
+        "Chapter 2: Meeting You in Earth-2",
+        "Chapter 3: The Convergence Principle"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Secrets of the Obsidian Spire",
+      "author": "Gideon Vance",
+      "genre": "Fantasy",
+      "coverImage": "https://images.unsplash.com/photo-1604871000636-074fa5117945?q=80&w=600",
+      "synopsis": "A rogue guild thief infiltrates a floating dark elf tower only to uncover a cosmic prophecy predicting the death of the magical layout system.",
+      "rating": 4.9,
+      "reads": 15800,
+      "tags": [
+        "Elves",
+        "Heist",
+        "Prophecy"
+      ],
+      "chapters": [
+        "Chapter 1: Climbing the Shadow Facade",
+        "Chapter 2: The Vault Core Trap",
+        "Chapter 3: Written in the Cosmos"
+      ]
+    },
+    {
+      "title": "Journey",
+      "genre": "Fantasy",
+      "coverImage": "https://i.pinimg.com/736x/3d/30/12/3d3012cc3d122102ba0d658c459405b8.jpg",
+      "synopsis": "Journey of a scholar on her horse at the sea shore, SHE TRAVELS through different landscapes,  WHERE SHE FINDS A TRANQUIL FIELD OF LAVENDER, despite the doubts and fears, WITH THE MAGIC OF THE SEA SHE FINDS HER WAY BACK TO THE CAVES ON THE ocean. ",
+      "rating": 5,
+      "chapters": [
+        "1. Dawn at the Sea",
+        "2. At the Lavender fields",
+        "3. Shadows by Shore"
+      ],
+      "author": "Sreyahsri",
+      "id": "vDTssymTEV0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
